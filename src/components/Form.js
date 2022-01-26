@@ -12,7 +12,9 @@ const Form = () => {
       >
         <form className='formik-form'>
           <h2 className='sc-dlVxhl lndXoS'>
-            First, let’s get the basics. What’s your name?
+            First, let’s get the basics.
+            <br></br>
+            What’s your name?
           </h2>
           <div className='sc-eFegNN enaKKw' />
           <div className='sc-jlRLRk bCbPAT'>
